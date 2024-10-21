@@ -1,0 +1,44 @@
+[
+    {
+        "rootType": "AttendanceType",
+        "id": "609553bb-ffeb-23a5-de40-d83126a98154",
+        "deleted": false,
+        "code": null,
+        "name": "Прогул"
+    },
+    {
+        "rootType": "AttendanceType",
+        "id": "e344dc1c-c601-230f-1c9e-031af83fe770",
+        "deleted": false,
+        "code": null,
+        "name": "Ночной"
+    },
+    {
+        "rootType": "AttendanceType",
+        "id": "ab357152-b64c-bc40-e715-70fb13cd4b45",
+        "deleted": false,
+        "code": null,
+        "name": "Праздничный"
+    },
+    {
+        "rootType": "AttendanceType",
+        "id": "8edef639-60e2-a0b7-e8de-648c49334a23",
+        "deleted": false,
+        "code": null,
+        "name": "Больничный"
+    },
+    {
+        "rootType": "AttendanceType",
+        "id": "1410aeda-5f73-f9da-f415-fc0d9513d400",
+        "deleted": false,
+        "code": null,
+        "name": "Отработано"
+    },
+    {
+        "rootType": "AttendanceType",
+        "id": "369a2cf6-2daa-2a6d-fb84-6dc255801a68",
+        "deleted": false,
+        "code": null,
+        "name": "Отпуск"
+    }
+]

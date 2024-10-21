@@ -1,0 +1,30 @@
+[
+    {
+        "rootType": "ScheduleType",
+        "id": "3f8901b2-c9f8-2263-1d58-88d4336f825a",
+        "deleted": false,
+        "code": null,
+        "name": "Сутки"
+    },
+    {
+        "rootType": "ScheduleType",
+        "id": "d137d23a-f5d6-9d8d-48ce-630a52808cd8",
+        "deleted": false,
+        "code": null,
+        "name": "Дневная смена"
+    },
+    {
+        "rootType": "ScheduleType",
+        "id": "994cd5c6-0ccf-9ba4-3635-299a0f79275b",
+        "deleted": false,
+        "code": null,
+        "name": "Утро"
+    },
+    {
+        "rootType": "ScheduleType",
+        "id": "a93a3ef2-5eb6-ede7-d9a0-49f25dc90869",
+        "deleted": false,
+        "code": null,
+        "name": "Ночная смена"
+    }
+]

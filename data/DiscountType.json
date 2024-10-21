@@ -1,0 +1,247 @@
+[
+    {
+        "rootType": "DiscountType",
+        "id": "08a93062-2d86-1dbc-5c04-14194da9c903",
+        "deleted": false,
+        "code": null,
+        "name": "Plazius"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "30ee9e91-36d4-a868-e087-15892defe17c",
+        "deleted": false,
+        "code": null,
+        "name": "iikoCard"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "4434c791-66ac-4d4c-bbe0-6629f31e6da6",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 10%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "cbe94e65-c4db-4e4e-ae9c-dcc90357820d",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 100%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "90dceec9-223a-4bdb-a5d1-e149beb2a65f",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 11%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "9ff19584-b950-4260-8a8f-0da159acf960",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 11,25%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "115ab70f-d096-4c1d-94ae-f0f6b92f4d02",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 12%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "0501380b-80bd-4c46-8edc-40b330d80d82",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 13%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "9d1fdbfd-a262-46d7-a3d2-a529b307a527",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 14%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "2bb34434-c16e-497d-8bba-1f9a8a020815",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 15%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "c38bd581-384b-4020-914b-1e7c1952db6a",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 16,3%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "cce83f93-14f7-4cda-a375-85d56697688a",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 17%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "ecc9ccac-bbc2-40b3-b609-15efdd10e5e7",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 17,5%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "8a322e18-fa7b-487c-93d2-6a5f6e4d0d60",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 20%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "3839de15-85be-409b-9b2b-c3e9de1af4ad",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 22%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "7c4686df-efb5-47ab-8398-6c537e71f726",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 25%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "1f115b92-da1b-4e61-9dba-a94b36e71330",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 3%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "4bcd50c4-e223-443c-9fc7-af072254d0d9",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 35%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "eae33b45-d09b-4bd5-9f45-9abbcd291635",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 40%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "24be7892-30d7-4af9-bed4-d8d2c30eeda4",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 41%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "eadcb93b-617d-42e7-9ac1-ef7123e67cfc",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 42%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "176faa91-7540-4c43-83cf-9de099ff8afa",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 5%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "0f5cb713-6e0a-476d-8004-643b425a2560",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 50%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "067aa5e9-6722-4d9f-8305-15b62971951b",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 58,3%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "c35d070a-3e76-485c-a94d-0453761f884a",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 6,5%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "bda2f782-d114-40e8-9ea1-57e85a6be1e0",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 18%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "e4a1a999-535c-4dd7-9226-0439da3a01af",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 8%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "0b00bbcb-1859-4fc8-9272-813cabcb687c",
+        "deleted": true,
+        "code": null,
+        "name": "Скидка 12%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "2cb04719-2066-46db-b907-31a254a7f4eb",
+        "deleted": true,
+        "code": null,
+        "name": "Скидка 3%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "5303dba2-2a0f-4dfd-96dd-82420f658861",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 12%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "23ade348-8cd2-40ba-b278-afe201179cbb",
+        "deleted": false,
+        "code": null,
+        "name": "Скидка 4%"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "61a1e0f6-8765-97d7-a2e8-d10acbdabc81",
+        "deleted": false,
+        "code": null,
+        "name": "Округление в пользу гостя"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "ab0a2776-dfc8-c4db-83d4-edb8d210fd8a",
+        "deleted": false,
+        "code": null,
+        "name": "Округление цены за единицу в пользу гостя"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "3dc7085d-4866-5795-9bf8-ef2b1347f848",
+        "deleted": false,
+        "code": null,
+        "name": "Округление стоимости блюда в чеке в меньшую сторону (скидка) при разделении блюда"
+    },
+    {
+        "rootType": "DiscountType",
+        "id": "eaf85d7c-5eef-8409-e316-ff97dac75f20",
+        "deleted": false,
+        "code": null,
+        "name": "Округление стоимости блюда в чеке в большую сторону (надбавка) при разделении блюда"
+    }
+]

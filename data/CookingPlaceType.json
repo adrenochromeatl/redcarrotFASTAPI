@@ -1,0 +1,44 @@
+[
+    {
+        "rootType": "CookingPlaceType",
+        "id": "22c1becd-2b32-30c5-22a7-2b48f1de3e3f",
+        "deleted": false,
+        "code": null,
+        "name": "Бар"
+    },
+    {
+        "rootType": "CookingPlaceType",
+        "id": "d17fa3fa-e141-2f50-b795-c15e0c2b741e",
+        "deleted": false,
+        "code": null,
+        "name": "Кухня"
+    },
+    {
+        "rootType": "CookingPlaceType",
+        "id": "a939f263-60a5-a96a-017a-ecc5e557a9e8",
+        "deleted": false,
+        "code": null,
+        "name": "Горячий цех Умами"
+    },
+    {
+        "rootType": "CookingPlaceType",
+        "id": "a939f263-60a5-a96a-017a-ecc5e557ae1c",
+        "deleted": false,
+        "code": null,
+        "name": "Сборка Умами"
+    },
+    {
+        "rootType": "CookingPlaceType",
+        "id": "a939f263-60a5-a96a-017a-ecc5e557a6f8",
+        "deleted": false,
+        "code": null,
+        "name": "Холодный цех Умами"
+    },
+    {
+        "rootType": "CookingPlaceType",
+        "id": "e31cc775-b4ad-44e2-89b3-545b98e5b4ad",
+        "deleted": false,
+        "code": null,
+        "name": "Хозы"
+    }
+]

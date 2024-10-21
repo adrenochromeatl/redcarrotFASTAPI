@@ -1,0 +1,2137 @@
+[
+    {
+        "rootType": "AlcoholClass",
+        "id": "dace9c91-522a-b5d8-834c-01c1289891b5",
+        "deleted": false,
+        "code": "533",
+        "name": "Напиток алкогольный медовый десертный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b4603eeb-a2da-521f-f716-1579f365236e",
+        "deleted": false,
+        "code": "0502",
+        "name": "Спирт этиловый абсолютированный технический"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "d5688d9f-b02e-e5c4-c153-dcd5377595c4",
+        "deleted": false,
+        "code": "21215",
+        "name": "Ликер эмульсионный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "cfdd4af4-e7c9-effa-6fbf-d3ea2baa02dc",
+        "deleted": false,
+        "code": "0202",
+        "name": "Спирты этиловые из пищевого сырья прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "3aa3a4bc-bbd5-7981-0812-9b4b09623a32",
+        "deleted": false,
+        "code": "1304",
+        "name": "Дистилляты винные полного цикла производства"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "7c409099-ee92-a4b7-e632-00bad6b92488",
+        "deleted": false,
+        "code": "1613",
+        "name": "Дистилляты фруктовые прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b32fabcd-6653-96cf-73f6-e1035cde5e01",
+        "deleted": false,
+        "code": "1611",
+        "name": "Дистилляты фруктовые"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "f56343cd-1432-357c-c72b-8403894a07d7",
+        "deleted": false,
+        "code": "4035",
+        "name": "Вино тихое"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0fa8551a-2020-88e3-db79-7c29426bd710",
+        "deleted": false,
+        "code": "1104",
+        "name": "Дистилляты винные для бренди прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "ffc96359-f41d-da16-c745-cbb966ea5607",
+        "deleted": false,
+        "code": "2521",
+        "name": "Кальвадосы Российские"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "89e90e47-fe40-fa19-c0d7-4ff2b730b33e",
+        "deleted": false,
+        "code": "4221",
+        "name": "Вино фруктовое коллекционное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "2f96277e-ef83-4d2a-eee3-35fd2d5008e7",
+        "deleted": false,
+        "code": "1904",
+        "name": "Дистилляты прочие, не включенные в другие группировки"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "26dd3ec6-8897-67b9-e082-152cfed544a5",
+        "deleted": false,
+        "code": "4114",
+        "name": "Портвейн"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "af565fa3-76e7-398a-172a-6d5cae18fb18",
+        "deleted": false,
+        "code": "1202",
+        "name": "Дистиллят яблочный выдержанный (кальвадосный)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "42625b60-9ff5-42f7-b4a9-252a270a0067",
+        "deleted": false,
+        "code": "3451",
+        "name": "Сусло виноградное спиртованное (мистель)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0bb209e8-597a-5208-2544-5c64e30257f7",
+        "deleted": false,
+        "code": "3242",
+        "name": "Виноматериалы фруктовые прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "fee7082d-2f5f-6717-a2ca-828cf3777f4d",
+        "deleted": false,
+        "code": "2809",
+        "name": "Джин сухой"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "a6938b54-67ed-d620-c1aa-6bcb767654e3",
+        "deleted": false,
+        "code": "3462",
+        "name": "Сусло фруктовое сброженно-спиртованное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "91d4fe24-2154-4a23-c8e3-a82c931c025c",
+        "deleted": false,
+        "code": "2322",
+        "name": "Бренди высокого качества выдержанный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "4b52f8be-c9ac-f6b1-c402-a0815ef731b8",
+        "deleted": false,
+        "code": "0201",
+        "name": "Спирт этиловый ректификованный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "ebb8fe14-e5df-7948-e1f5-aa92ff0f0a6c",
+        "deleted": false,
+        "code": "4321",
+        "name": "Вермут"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "af908c73-de6a-aa5a-2d59-71a04b076b6d",
+        "deleted": false,
+        "code": "1301",
+        "name": "Дистилляты винные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b862541e-bc5b-05f0-b686-27dc0312e637",
+        "deleted": false,
+        "code": "21211",
+        "name": "Настойки прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "5c7046d5-51d3-67f4-750f-378306efb8e1",
+        "deleted": false,
+        "code": "031",
+        "name": "Спирт этиловый из головной фракции этилового спирта"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "945e95d2-6959-0a33-5170-7e22d84a03fc",
+        "deleted": false,
+        "code": "4312",
+        "name": "Вино специальное с защищенным наименованием места происхождения. Эта группировка группировка включает: специальное вино с защищеным наименованием места происхождения товара"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "443c9d6d-0624-8352-bc76-6f6b19f45acd",
+        "deleted": false,
+        "code": "238",
+        "name": "Напитки коньячные с содержанием этилового спирта до 25% включительно"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "5d95aeca-ed5f-8fb4-e62b-3ae298af57d6",
+        "deleted": false,
+        "code": "21210",
+        "name": "Настойка сладкая"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "faa02fe8-500b-c860-33f4-5e331f7c379e",
+        "deleted": false,
+        "code": "252",
+        "name": "Кальвадос"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "9429e97e-25c4-11e1-203b-a2378780faf9",
+        "deleted": false,
+        "code": "2613",
+        "name": "Сидр фруктовый ароматизированный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "11a22b75-6424-baa7-4773-38e2bd83b24e",
+        "deleted": false,
+        "code": "2331",
+        "name": "Напиток крепкий из дистиллята винного для бренди (дистиллята коньячного) с защищенным географическим указанием (национальный коньяк)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "721570ae-15d2-4215-de9f-3bf4a3486356",
+        "deleted": false,
+        "code": "2291",
+        "name": "Коньяк"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "f49d8b34-39f4-e39d-50e3-11e07330dbf8",
+        "deleted": false,
+        "code": "2603",
+        "name": "Напитки алкогольные медовые за исключением медовухи"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "11ea1e91-5887-9006-bb63-52b17ff6c9d3",
+        "deleted": false,
+        "code": "3212",
+        "name": "Виноматериалы виноградные ликерные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "4f27e9fd-5e2a-27a1-99e5-554e03c34429",
+        "deleted": false,
+        "code": "161",
+        "name": "Фруктовый (плодовый) дистиллят"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "2d9cd9ac-5cc5-f800-a74f-0f1028baea02",
+        "deleted": false,
+        "code": "482",
+        "name": "Товары бытовой химии"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "f72e74c7-f77e-e3ac-31b7-76e2ca60d21b",
+        "deleted": false,
+        "code": "4618",
+        "name": "Напиток винный газированный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "00435233-c2b5-f376-35e6-7c6a8cacc08b",
+        "deleted": false,
+        "code": "484",
+        "name": "Другая спиртосодержащая непищевая продукция"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b08c40fd-891b-73be-a575-945ec7e1b206",
+        "deleted": false,
+        "code": "2323",
+        "name": "Бренди высокого качества старый"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "77291b64-e173-8ebe-8c21-bc065ffdf843",
+        "deleted": false,
+        "code": "3232",
+        "name": "Виноматериалы виноградные прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "4768d137-a5ea-e894-600c-6d3f41a887a0",
+        "deleted": false,
+        "code": "310",
+        "name": "Кальвадосные спирты"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "90797bf9-9225-5b64-e38f-9120448934fd",
+        "deleted": false,
+        "code": "103",
+        "name": "Спиртосодержащие лекарственные препараты (средства) для ветеринарного применения"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "af25ed4b-a418-168f-be7d-fdf543742c1f",
+        "deleted": false,
+        "code": "4215",
+        "name": "Вино фруктовое газированное жемчужное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "5bea25a8-61aa-c1b5-8363-592b054fe30a",
+        "deleted": false,
+        "code": "4121",
+        "name": "Вино ликерное с защищенным географическим указанием. Эта группировка группировка включает: ликерное вино с защищенным географическим указанием"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "734e75a5-7d3c-c282-6af1-1dd1b7d0b1b8",
+        "deleted": false,
+        "code": "110",
+        "name": "Коньячный дистиллят"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "95fd7b86-845b-a549-8cf7-ef6720039ae7",
+        "deleted": false,
+        "code": "345",
+        "name": "Спиртованное виноградное сусло (мистель)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "edca7977-1598-ea32-4def-bd92a0e32b97",
+        "deleted": false,
+        "code": "2523",
+        "name": "Кальвадосы прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "acd515e3-7846-454a-4524-39cff230d8c3",
+        "deleted": false,
+        "code": "4841",
+        "name": "Продукция спиртосодержащая непищевая прочая"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "1a9ccc46-fa88-6469-b39e-0388587d8474",
+        "deleted": false,
+        "code": "261",
+        "name": "Сидр"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "06eb6f18-2144-a1d3-265e-54c2bb31caed",
+        "deleted": false,
+        "code": "321",
+        "name": "Виноматериалы виноградные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "4cd4b448-553c-c26f-ee58-953623b58b30",
+        "deleted": false,
+        "code": "2123",
+        "name": "Аперитивы"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b450c83b-8b6f-be98-4d04-8b76a03657f0",
+        "deleted": false,
+        "code": "270",
+        "name": "Другие спиртные напитки с содержанием этилового спирта до 25% включительно"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "a4daf611-7ab4-329a-923c-83bbf845ed0f",
+        "deleted": false,
+        "code": "4217",
+        "name": "Вино фруктовое крепленое ароматизированное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "bb052463-493f-b105-eacb-cf507a3aa4d1",
+        "deleted": false,
+        "code": "320",
+        "name": "Виноматериалы"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "93f7b8c3-0efc-d505-3625-af9c182bfd70",
+        "deleted": false,
+        "code": "412",
+        "name": "Ликерное вино с защищенным географическим указанием"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "bcfc2e4d-924d-2118-ba40-373651359196",
+        "deleted": false,
+        "code": "2115",
+        "name": "Напитки десертные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "9da92a11-bd49-2288-e4ae-abc800ea47c7",
+        "deleted": false,
+        "code": "4216",
+        "name": "Вино фруктовое крепленое"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "5a6e5506-ad70-a159-e2f9-73595ae2d830",
+        "deleted": false,
+        "code": "4615",
+        "name": "Вина газированные прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "22171d40-fd8b-8f4c-cdd9-d4aac78c755b",
+        "deleted": false,
+        "code": "140",
+        "name": "Спирт этиловый питьевой"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "cfceedaf-91fa-ad8d-cb21-ba44e38186c7",
+        "deleted": false,
+        "code": "230",
+        "name": "Коньяки, реализуемые в бутылках"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "03ad32f4-4218-edbc-4df4-fade062a3dc8",
+        "deleted": false,
+        "code": "1506",
+        "name": "Дистилляты виноградные полного цикла производства прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "e5e61bc5-5282-e9c8-4f80-af523abf7d3c",
+        "deleted": false,
+        "code": "2806",
+        "name": "Водка медовая"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "453c9af5-3eb9-1b72-36c2-8cc09ebe02f6",
+        "deleted": false,
+        "code": "440",
+        "name": "Вина игристые"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "aa0e229c-1f14-dc61-f959-43ab3435a56a",
+        "deleted": false,
+        "code": "510",
+        "name": "Пиво с содержанием объемной доли этилового спирта свыше 8,6 %"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "61ce09fe-3599-273e-5815-2569c255b1f4",
+        "deleted": false,
+        "code": "46110",
+        "name": "Напитки винные фруктовые ароматизированные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "bdbe2cd3-0b9e-be53-4318-02a4e5285a7f",
+        "deleted": false,
+        "code": "250",
+        "name": "Напитки винные с содержанием этилового спирта до 25% включительно"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "957369aa-6fbf-192f-7069-8118716ad41e",
+        "deleted": false,
+        "code": "2324",
+        "name": "Бренди высокого качества очень старый"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0fd185ce-a30a-ac70-9af5-ccfb80ed11ca",
+        "deleted": false,
+        "code": "4629",
+        "name": "Напитки винные фруктовые прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b3796da1-5e2b-cb9c-6449-57eb7f942709",
+        "deleted": false,
+        "code": "0501",
+        "name": "Спирт этиловый абсолютированный из пищевого сырья"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "1cac58da-faa2-56fa-1e44-169a081b9abb",
+        "deleted": false,
+        "code": "1502",
+        "name": "Дистиллят виноградного происхождения ректификованный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "77eb4ce9-91fe-7266-720b-e3203dc21423",
+        "deleted": false,
+        "code": "2602",
+        "name": "Напитки слабоалкогольные прочие, не входящие в группу напитки слабоалкогольные брожения"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "343bbe5c-ba41-5d42-180d-e1268a553640",
+        "deleted": false,
+        "code": "2341",
+        "name": "Коньяк с защищенным наименованием места происхождения товара"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "5d50d858-b518-db7a-e4f3-ab686c2d6680",
+        "deleted": false,
+        "code": "2003",
+        "name": "Водка особая с защищенным наименованием места происхождения товара"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "145e87f4-22b7-691d-7c08-824313536747",
+        "deleted": false,
+        "code": "537",
+        "name": "Напиток медовый крепкий. Эта группировка включает продукцию крепостью от 22 до 55 процентов."
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "41174076-3809-28a0-998a-2dd07ce99b1a",
+        "deleted": false,
+        "code": "483",
+        "name": "Спиртосодержащие растворы"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "420f7aaa-d471-6f00-3e39-e261bd89de67",
+        "deleted": false,
+        "code": "091",
+        "name": "Фракция головных и промежуточных примесей этилового спирта"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "bf7b2112-3be1-b2f4-15a3-c82178d5ea48",
+        "deleted": false,
+        "code": "150",
+        "name": "Виноградный дистиллят"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "961eed19-119c-ed84-a461-14b3ddbe5c10",
+        "deleted": false,
+        "code": "422",
+        "name": "Вино коллекционное фруктовое"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "a9445b6e-428a-e1fe-edc6-7b56da97ab31",
+        "deleted": false,
+        "code": "081",
+        "name": "Биоэтанол из непищевого сырья"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "880e870b-5bb4-b8bd-9c32-6ef2f31617b3",
+        "deleted": false,
+        "code": "21213",
+        "name": "Ликер крепкий"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "8c8ee69f-2b1e-4f99-60e8-b53349db64fd",
+        "deleted": false,
+        "code": "251",
+        "name": "Напитки винные с содержанием этилового спирта свыше 25%"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "56f26cdb-c701-6a53-5d55-7c55df184f13",
+        "deleted": false,
+        "code": "431",
+        "name": "Вино специальное с защищенным наименованием места происхождения"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "df4416f1-3372-2b63-5eb9-e9c3a4b1581f",
+        "deleted": false,
+        "code": "28010",
+        "name": "Джины прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "f1b9af1b-02e6-75e2-792b-1a6eba99e60a",
+        "deleted": false,
+        "code": "4627",
+        "name": "Напитки виноградосодержащие из виноградного сырья ароматизированные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "a4fdab43-8633-9322-ecab-80308fa0efe5",
+        "deleted": false,
+        "code": "400",
+        "name": "Вина натуральные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "71142232-eca7-e1f8-1d94-92a732039d3b",
+        "deleted": false,
+        "code": "4531",
+        "name": "Вино шампанское коллекционное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0c73dce4-1a46-9e20-61bd-74c2348d3570",
+        "deleted": false,
+        "code": "300",
+        "name": "Коньячные спирты"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "4d9a9ba0-b0e2-eb2e-73c7-3bf19cce4d74",
+        "deleted": false,
+        "code": "260",
+        "name": "Слабоалкогольная продукция"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "8b05dca4-83a5-21e0-96a7-d3ec5e3510e1",
+        "deleted": false,
+        "code": "4302",
+        "name": "Вино специальное с защищенным географическим указанием. Эта группировка группировка включает: специальное вино с защищеным геграфическим указанием"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "d30b97c5-cf46-8f8a-019f-4afc07a152bc",
+        "deleted": false,
+        "code": "324",
+        "name": "Специальные виноматериалы фруктовые (плодовые)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "8b1caa50-c874-99ae-cbd8-5d14beafc489",
+        "deleted": false,
+        "code": "1105",
+        "name": "Дистиллят коньячный полного цикла производства"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "55b3b37f-a416-a179-ec2a-6e0f4afdc504",
+        "deleted": false,
+        "code": "342",
+        "name": "Медовое сусло"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "1ef78924-fa35-1d10-c650-425724d4265a",
+        "deleted": false,
+        "code": "4213",
+        "name": "Вино фруктовое столовое"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "2c9b5a62-a58b-2971-c47c-ef9956c839ac",
+        "deleted": false,
+        "code": "231",
+        "name": "Коньяки обработанные, предназначенные для отгрузки с целью розлива на других предприятиях или промпереработки"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "fa14a130-8dc6-1063-6891-0c458cc94a1e",
+        "deleted": false,
+        "code": "3431",
+        "name": "Сусло пивное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "efeb609c-33c5-da18-e3ed-20c648cd83cf",
+        "deleted": false,
+        "code": "453",
+        "name": "Вина шампанские коллекционные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "42832c05-4f03-80cd-13e7-fd8fcb896c2c",
+        "deleted": false,
+        "code": "1504",
+        "name": "Дистилляты виноградные полного цикла производства"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "24e1c6cd-0d4a-3b27-3afa-59c232da1926",
+        "deleted": false,
+        "code": "531",
+        "name": "Напиток алкогольный медовый газированный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "033da673-ccc8-a0f8-3c78-fbb45567935e",
+        "deleted": false,
+        "code": "452",
+        "name": "Вина шампанские с защищенным наименованием места происхождения"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "a39afe00-b98d-6d76-fd08-b6d014532a7e",
+        "deleted": false,
+        "code": "4616",
+        "name": "Винные напитки виноградные, произведенные без добавления этилового спирта с насыщением двуокисью углерода"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "dbc8f0b1-36d0-ea1a-5466-36095065b52c",
+        "deleted": false,
+        "code": "344",
+        "name": "Виноградное сусло"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "41ed812d-9175-d4ee-d8fd-e9d8844654af",
+        "deleted": false,
+        "code": "4611",
+        "name": "Винные напитки виноградные, произведенные без добавления этилового спирта без насыщения двуокисью углерода"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "7ef03096-7ff1-fe5d-a814-48cd0e69f1e2",
+        "deleted": false,
+        "code": "42110",
+        "name": "Вино фруктовое игристое жемчужное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "1a05c1de-2333-5fae-8103-94edeb1c892e",
+        "deleted": false,
+        "code": "2122",
+        "name": "Пунш с ромом"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "9e048e61-9392-d2fc-b65b-60e32a51ef78",
+        "deleted": false,
+        "code": "2127",
+        "name": "Настойки"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "2844a4d2-a7e0-f952-c4d4-6fa40ed17718",
+        "deleted": false,
+        "code": "3502",
+        "name": "Спирт ароматный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "28db10db-adaf-c8bf-54e1-0169d08a4a8c",
+        "deleted": false,
+        "code": "443",
+        "name": "Вина игристые коллекционные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0f75056a-a1e5-99b3-ea9a-13b8a71df0e8",
+        "deleted": false,
+        "code": "2326",
+        "name": "Бренди высокого качества с защищенным географическим указанием"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "257bdb55-3668-3956-3a3a-46e01ff1daa5",
+        "deleted": false,
+        "code": "4422",
+        "name": "Вино игристое виноградное шампанское с защищенным наименованием места происхождения товара"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b6834850-c11d-c7ff-0837-2183efa154bb",
+        "deleted": false,
+        "code": "3461",
+        "name": "Сусло фруктовое сброженное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "5b5d6875-b03c-29f5-2727-286556caa5c8",
+        "deleted": false,
+        "code": "170",
+        "name": "Висковый дистиллят"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "6f3b2319-4382-29ab-7320-c25c74a40371",
+        "deleted": false,
+        "code": "411",
+        "name": "Ликерное вино"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "e0d358e2-9771-3b79-223a-49391cad1b35",
+        "deleted": false,
+        "code": "3222",
+        "name": "Виноматериалы фруктовые сброженные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "857fb3bf-d2b0-b726-e5ad-b13bae030366",
+        "deleted": false,
+        "code": "1505",
+        "name": "Дистиллят виноградный полного цикла производства ректификованный с объемной долей спирта более 86%"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "915ef83a-d4df-2d39-67c0-ed9718fa0689",
+        "deleted": false,
+        "code": "4624",
+        "name": "Напиток винный крепкий (из дистиллята коньячного)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "a1bc24b3-ddec-8b9c-4b8b-b5ecfde69a57",
+        "deleted": false,
+        "code": "340",
+        "name": "Дистилляты"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "2f084e19-3c96-9e84-d781-b7e463d54418",
+        "deleted": false,
+        "code": "346",
+        "name": "Спиртованное фруктовое сусло"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "9600f2e4-1b93-c5c0-a467-b1d19a349999",
+        "deleted": false,
+        "code": "1302",
+        "name": "Дистиллят винный ректификованный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "2f470826-a40d-1baf-d231-7026c499bce1",
+        "deleted": false,
+        "code": "2803",
+        "name": "Водка виноградная с защищенным наименованием места происхождения"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "1f0a64b5-f678-557f-2cd6-eb6c1b8ce420",
+        "deleted": false,
+        "code": "2808",
+        "name": "Джин дистиллированный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "9c531d64-c308-fef5-91c0-7e0f79b3ac07",
+        "deleted": false,
+        "code": "030",
+        "name": "Спирт этиловый из ЭАФ"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "e9140026-6372-2753-883d-8d3f99354997",
+        "deleted": false,
+        "code": "4614",
+        "name": "Вино газированное жемчужное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "18bae2a1-3897-66ff-b7cb-89b3d4dbfa69",
+        "deleted": false,
+        "code": "2001",
+        "name": "Водка с защищенным наименованием места происхождения товара"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "a453ff2a-4d30-08d1-c60f-e768a966565a",
+        "deleted": false,
+        "code": "441",
+        "name": "Вина игристые с защищенным географическим указанием"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "f9012685-6dad-9ba6-8866-2f5a69ba35cd",
+        "deleted": false,
+        "code": "21217",
+        "name": "Ликеры прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "120ce3c5-0f9f-82e4-94a6-27111d463e87",
+        "deleted": false,
+        "code": "4622",
+        "name": "Винные напитки виноградные, произведенные с добавлением этилового спирта с насыщением двуокисью углерода"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "889103fa-5eb9-3717-8899-b3184188a40b",
+        "deleted": false,
+        "code": "2351",
+        "name": "Коньяк особый"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "c361dae0-51af-74f2-4050-7851ef4d7757",
+        "deleted": false,
+        "code": "4401",
+        "name": "Вино игристое высокого качества"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "db4e2770-fb29-8235-276a-ff0e9258cdd2",
+        "deleted": false,
+        "code": "4032",
+        "name": "Вино молодое"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "be901636-8185-ddf2-215f-f06da285a9a8",
+        "deleted": false,
+        "code": "070",
+        "name": "Спирт этиловый денатурированный из пищевого сырья"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "882c0bde-4832-32fe-1d07-4d2d06993542",
+        "deleted": false,
+        "code": "212",
+        "name": "Ликероводочные изделия с содержанием этилового спирта свыше 25%"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "578019a5-4697-b2bc-108d-febfd5f81f15",
+        "deleted": false,
+        "code": "4113",
+        "name": "Мадера"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "c4eb5ab5-2b63-6288-a9fe-c285c651fe4d",
+        "deleted": false,
+        "code": "21214",
+        "name": "Ликер десертный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "96f98d73-958d-2210-99b3-c6e9c11f1a87",
+        "deleted": false,
+        "code": "092",
+        "name": "Промежуточная фракция этилового спирта из пищевого сырья"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "3ee10202-d9ae-cc42-d02c-c8f58725f025",
+        "deleted": false,
+        "code": "0401",
+        "name": "Спирт этиловый технический синтетический"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "57c862a8-e3bc-55bd-21da-9f6344d4ffdb",
+        "deleted": false,
+        "code": "415",
+        "name": "Вино (столовое) с защищенным наименованием места происхождения"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "1de4bcee-cb55-0e11-e0c6-564467257730",
+        "deleted": false,
+        "code": "28014",
+        "name": "Прочие напитки спиртные, не включенные в другие группировки"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "6f1798b7-6e5d-5429-609d-45e263764906",
+        "deleted": false,
+        "code": "4037",
+        "name": "Херес"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "753e15ba-37c3-f753-1c3e-68f3a9589b5c",
+        "deleted": false,
+        "code": "323",
+        "name": "Специальные виноматериалы виноградные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "a465cf8c-b4fe-494f-4eea-6d328fc17e9f",
+        "deleted": false,
+        "code": "420",
+        "name": "Вина плодовые"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "e6cf1178-5ecb-49b3-a6e0-d8c6ad0f0738",
+        "deleted": false,
+        "code": "4628",
+        "name": "Напиток фруктовый крепкий"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "6008e4d7-5054-df7e-200a-0cd8ea05b7c3",
+        "deleted": false,
+        "code": "080",
+        "name": "Спирт этиловый денатурированный из непищевого сырья"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "cbfad29f-87c5-7616-a152-1273c78ecafb",
+        "deleted": false,
+        "code": "442",
+        "name": "Вина игристые с защищенным наименованием места происхождения"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "4db2dac5-94ea-ca4c-0840-e23e00cb6787",
+        "deleted": false,
+        "code": "4036",
+        "name": "Вина столовые прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "1a707863-029d-568f-adc4-cd3d3dbd6fa1",
+        "deleted": false,
+        "code": "200",
+        "name": "Водка"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "67fe2945-af28-c8b1-933d-e8dda96a4f4e",
+        "deleted": false,
+        "code": "4212",
+        "name": "Фрукты в вине (фрукты в вине фруктовом)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "138d3f8c-57e0-04ca-930f-681dbbb61568",
+        "deleted": false,
+        "code": "536",
+        "name": "Напитки медовые за исключением медовухи прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "56931595-9b83-a7f0-652d-525da42fe6db",
+        "deleted": false,
+        "code": "4131",
+        "name": "Вино ликерное вино с защищенным наименованием места происхождения товара. Эта группировка включает: ликерное вино с с защищенным наименованием места происхождения товара"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "a4e8fe3b-7d1f-dd5d-5959-a5f80d447f86",
+        "deleted": false,
+        "code": "2128",
+        "name": "Настойка горькая"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "10493946-4769-740f-5de5-cdb5e5762dbb",
+        "deleted": false,
+        "code": "2807",
+        "name": "Джины"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "a8de3cfa-d056-bc95-d334-8da5b9f99b7b",
+        "deleted": false,
+        "code": "4501",
+        "name": "Вино игристое виноградное шампанское"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "160d96b8-66c4-bd36-27b5-7afd5098f062",
+        "deleted": false,
+        "code": "0503",
+        "name": "Спирт этиловый технический гидролизный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "33e30a10-8ff9-d151-f9f8-de48a126f338",
+        "deleted": false,
+        "code": "104",
+        "name": "Спиртосодержащие медицинские изделия"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "982ebfcf-924b-d034-a467-bb9d7682c013",
+        "deleted": false,
+        "code": "534",
+        "name": "Напиток алкогольный медовый нектар"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0783c365-3361-f189-7f4a-463e11f9f074",
+        "deleted": false,
+        "code": "538",
+        "name": "Винодельческая продукция прочая"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "d7f38c51-dead-2f28-fa03-b518a2c37905",
+        "deleted": false,
+        "code": "405",
+        "name": "Вино с защищенным наименованием места происхождения"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "13f063b7-fb8a-ae14-09ad-016706e70b09",
+        "deleted": false,
+        "code": "071",
+        "name": "Биоэтанол из пищевого сырья"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "efbccbb7-4bc6-8819-0278-1bd68c4366c4",
+        "deleted": false,
+        "code": "2612",
+        "name": "Сидр фруктовый"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "2b67670b-1551-1ca1-acd6-a5b59a1cd61c",
+        "deleted": false,
+        "code": "239",
+        "name": "Напитки коньячные с содержанием этилового спирта свыше 25%"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "506e1604-1e0d-8e0c-5e24-57e7c4630734",
+        "deleted": false,
+        "code": "4625",
+        "name": "Напиток винный ароматизированный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "50f05034-3edd-206a-5ea6-34714ae18347",
+        "deleted": false,
+        "code": "1101",
+        "name": "Дистиллят винный для бренди (дистиллят коньячный)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0a06bb8e-cd9f-48c4-ec5b-27ebfb44b124",
+        "deleted": false,
+        "code": "2325",
+        "name": "Бренди высокого качества коллекционный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "8fe097be-cb5f-8a93-d739-de120bb4ac09",
+        "deleted": false,
+        "code": "461",
+        "name": "Винный напиток, произведенный без добавления этилового спирта"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "43920528-ffa5-ace7-5e8b-8d0f7b9d24e4",
+        "deleted": false,
+        "code": "232",
+        "name": "Бренди"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0d875ef9-3105-843d-1bfa-4120d36d68f4",
+        "deleted": false,
+        "code": "060",
+        "name": "Другие спирты, за исключением денатурированных (гидролизный, технический и другие)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "10a2d87c-8342-601f-5a01-77af6d7f4254",
+        "deleted": false,
+        "code": "46210",
+        "name": "Коктейли винные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "2058a96e-fac5-ead5-8dc4-6b611e852c01",
+        "deleted": false,
+        "code": "2129",
+        "name": "Настойка полусладкая"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "094618ed-c034-ab08-aa8d-c4b0924e85e3",
+        "deleted": false,
+        "code": "3463",
+        "name": "Сусла фруктовые прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "eba460b8-ece5-580b-852a-e9daacd3aeda",
+        "deleted": false,
+        "code": "451",
+        "name": "Вина шампанские с защищенным географическим указанием"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "9515792e-e7cd-b71c-cd44-840ff8046aae",
+        "deleted": false,
+        "code": "4033",
+        "name": "Вино (под пленкой)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b660d671-6cd4-75d8-60ac-2da871f542e0",
+        "deleted": false,
+        "code": "402",
+        "name": "Вино с защищенным географическим указанием или с защищенным наименованием места происхождения"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "c95e16d3-e0d3-6be6-283c-6171b5fb9902",
+        "deleted": false,
+        "code": "1102",
+        "name": "Дистиллят винный для бренди выдержанный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "91bd6a12-ca94-fea1-88b3-beb86b7a51e5",
+        "deleted": false,
+        "code": "530",
+        "name": "Напиток алкогольный медовый"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "4855af5d-5569-4503-04a7-9cf53dfda3c3",
+        "deleted": false,
+        "code": "532",
+        "name": "Напиток алкогольный медовый крепленый. Эта группировка включает продукцию с объемной долей этилового спирта от 17 до 22 процентов."
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "d2e9f189-4a03-d585-c000-25dab6059636",
+        "deleted": false,
+        "code": "211",
+        "name": "Ликероводочные изделия с содержанием этилового спирта до 25% включительно"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "9115da66-1556-fee6-2ede-b6fcab0c4af8",
+        "deleted": false,
+        "code": "4031",
+        "name": "Вино столовое"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "d2b9e019-b4c1-1e41-07dc-13003b0046ea",
+        "deleted": false,
+        "code": "2114",
+        "name": "Наливки"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "67ec91c3-5394-d4ad-e2b4-bd498a06e3fb",
+        "deleted": false,
+        "code": "42111",
+        "name": "Вина фруктовые игристые прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "a83d4d4f-5649-3c2a-f529-c8601ba414e4",
+        "deleted": false,
+        "code": "401",
+        "name": "Вино (виноградное)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "2dfa6064-8aed-7377-1d8c-59214c629fd2",
+        "deleted": false,
+        "code": "4613",
+        "name": "Вина газированные, в том числе из свежего винограда"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "4b361e68-f5ed-f707-e34a-920405768096",
+        "deleted": false,
+        "code": "2124",
+        "name": "Коктейли"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "5207cca0-6caf-969c-7f80-a3ab8b6b90c8",
+        "deleted": false,
+        "code": "2121",
+        "name": "Крем"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "6016140d-52ed-8e1d-6faf-e93711ea2684",
+        "deleted": false,
+        "code": "413",
+        "name": "Ликерное вино с защищенным наименованием места происхождения"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "007aea07-d482-7d94-5083-ab21e62057c8",
+        "deleted": false,
+        "code": "343",
+        "name": "Пивное сусло"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "f5b55e97-f843-892f-481e-0ea91e02f7da",
+        "deleted": false,
+        "code": "3501",
+        "name": "Настои спиртованные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "89e2c88b-2e63-7b89-4d61-030e88304ffe",
+        "deleted": false,
+        "code": "4402",
+        "name": "Вина игристые жемчужные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "9060d3a9-1ece-809c-848c-f69e96d41078",
+        "deleted": false,
+        "code": "1204",
+        "name": "Дистилляты кальвадосные прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "6f4cf331-eca9-02cd-c031-847d0ec0bdb3",
+        "deleted": false,
+        "code": "2805",
+        "name": "Водки виноградные прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "44ca2a0e-4757-7ac9-be6d-1f68f6411937",
+        "deleted": false,
+        "code": "4219",
+        "name": "Вино фруктовое игристое"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "e89ac273-a96f-cbf4-6fd3-7961dcc1e32b",
+        "deleted": false,
+        "code": "242",
+        "name": "Напитки коньячные, бренди с содержанием этилового спирта свыше 25%"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b0966f17-6eec-5986-4f4c-bb118330eaac",
+        "deleted": false,
+        "code": "2111",
+        "name": "Ликеро-водочные изделия с содержанием этилового спирта до 25% включительно (до 01.01.2013)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "c9d0df7c-4dbd-be3c-bc70-9c12c834e856",
+        "deleted": false,
+        "code": "1103",
+        "name": "Дистиллят винный для бренди молодой"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "dcfcc5f1-a762-a12b-2b1e-debade596596",
+        "deleted": false,
+        "code": "233",
+        "name": "Коньяк с защищенным географическим указанием"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "60c564e4-d88a-0eda-3ac5-50b7ad179a3b",
+        "deleted": false,
+        "code": "4034",
+        "name": "Вино сортовое"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "e9c6f17e-6172-3dc0-a21a-a5bbc683e819",
+        "deleted": false,
+        "code": "120",
+        "name": "Кальвадосный дистиллят"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "dfc870c4-0215-4cca-76d8-28dd6e70e297",
+        "deleted": false,
+        "code": "4011",
+        "name": "Вино"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "befcda9e-b126-b851-6fc5-7cb7e538a46b",
+        "deleted": false,
+        "code": "1903",
+        "name": "Дистиллят медовый"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "cf4a75a3-a1e2-6101-d485-aea89fa1e4b1",
+        "deleted": false,
+        "code": "1303",
+        "name": "Дистилляты винные прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "39e1725b-d060-85c7-3fae-e8f355df57a5",
+        "deleted": false,
+        "code": "2601",
+        "name": "Напитки слабоалкогольные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "c7fe469d-d638-4fdd-2063-12ba76c863d5",
+        "deleted": false,
+        "code": "040",
+        "name": "Спирт этиловый синтетический"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b169138a-0389-eb6f-5e42-cfab526adac2",
+        "deleted": false,
+        "code": "28012",
+        "name": "Бренди фруктовый коллекционный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "14ef3683-1764-a9f2-8b72-3e203f5e19bd",
+        "deleted": false,
+        "code": "2522",
+        "name": "Напиток крепкий из дистиллята яблочного выдержанного (кальвадосного) (кальвадос)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "7c62af59-27c2-4abb-e1d0-f65f7924c3a4",
+        "deleted": false,
+        "code": "500",
+        "name": "Пиво с содержанием объемной доли этилового спирта свыше 0,5 % и до 8,6% включительно"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "6eba3428-d847-e223-8d7c-e4b5ce62660f",
+        "deleted": false,
+        "code": "2327",
+        "name": "Бренди прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "ddca2e79-dfc5-f0f9-a379-4ee877f115bd",
+        "deleted": false,
+        "code": "3301",
+        "name": "Морсы спиртованные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "8aed0cce-fd2d-b750-f0f1-8a27eca34778",
+        "deleted": false,
+        "code": "3503",
+        "name": "Продукция спиртосодержащая пищевая прочая"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "2936ae8d-79f0-5648-38b8-9587a9901bf8",
+        "deleted": false,
+        "code": "1902",
+        "name": "Дистилляты прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "ec10d7d7-7dcc-bfce-9a3d-aae37828c866",
+        "deleted": false,
+        "code": "450",
+        "name": "Вина шампанские"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "3efaaf2b-37f0-f7d8-0dc8-396ff211aa16",
+        "deleted": false,
+        "code": "2004",
+        "name": "Водки прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "f52cb152-8830-6719-85da-cf399f1d6ff2",
+        "deleted": false,
+        "code": "025",
+        "name": "Спирт этиловый ректификованный из непищевого растительного сырья"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "cd2539f3-6a91-59f9-9159-3dbf5f76b572",
+        "deleted": false,
+        "code": "3241",
+        "name": "Виноматериалы фруктовые специальные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "9d93ce55-cef2-b96e-42fb-b4d7f36a6642",
+        "deleted": false,
+        "code": "4301",
+        "name": "Вино специальное с защищенным географическим указанием. (для производителей респ.Крым и г.Севастополь)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "59c38092-9075-d09d-3157-0bb8850cf305",
+        "deleted": false,
+        "code": "229",
+        "name": "Коньяк и арманьяк, реализуемые в бутылках"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "3ae97008-9f34-c18d-6cfa-d112bd98d149",
+        "deleted": false,
+        "code": "1306",
+        "name": "Дистилляты винные полного цикла производства прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "eb16f674-e84c-2220-2f41-7096ba2fcb97",
+        "deleted": false,
+        "code": "4612",
+        "name": "Вино газированное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "6809f579-dec7-811b-8f47-da6d1ba6af42",
+        "deleted": false,
+        "code": "1901",
+        "name": "Дистилляты прочие полного цикла производства"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "d248f002-09b8-6732-f45a-0eccd8fd6dce",
+        "deleted": false,
+        "code": "0101",
+        "name": "Спирт-сырец этиловый"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "50965019-ead5-2681-0462-0960ad0425b5",
+        "deleted": false,
+        "code": "4623",
+        "name": "Напитки винные фруктовые, произведенные с добавлением этилового спирта"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "02ef7b23-1ed9-3dfb-a685-d06d3673b31c",
+        "deleted": false,
+        "code": "4421",
+        "name": "Вино игристое с защищенным наименованием места происхождения товара"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "37e37a2b-b6a5-a19b-f4fb-bcc231349891",
+        "deleted": false,
+        "code": "100",
+        "name": "Спирт этиловый по фармакопейным статьям"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "8e854c4c-aa0e-e19b-766f-dd3a33ae9ecc",
+        "deleted": false,
+        "code": "010",
+        "name": "Спирт-сырец этиловый из пищевого сырья"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0f957a95-7230-dc56-7075-126a5a97da9f",
+        "deleted": false,
+        "code": "462",
+        "name": "Винный напиток, произведенный с добавлением этилового спирта"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "1bc27e04-8c12-ff83-7054-a3d707d15f74",
+        "deleted": false,
+        "code": "2002",
+        "name": "Водка особая"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0f3a6846-890d-5088-8c82-faa2817162dc",
+        "deleted": false,
+        "code": "481",
+        "name": "Парфюмерно-косметическая продукция"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "63496489-d079-c0df-dacf-9c6d0a9dec2c",
+        "deleted": false,
+        "code": "460",
+        "name": "Другие вина"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "9976db64-669d-cd5e-6421-0d9338354123",
+        "deleted": false,
+        "code": "28015",
+        "name": "Спиртные напитки прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "04696d68-93ad-94d1-5f5d-6da52f2c90df",
+        "deleted": false,
+        "code": "130",
+        "name": "Винный дистиллят"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "35d4404c-36c9-7713-2a93-819e05b07b87",
+        "deleted": false,
+        "code": "403",
+        "name": "Вино (виноградное столовое)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "9664d549-5c53-4ee4-9621-e96a9e4bede2",
+        "deleted": false,
+        "code": "432",
+        "name": "Вино ароматизированное виноградное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "75209d34-3b3d-5f05-e3b5-36ee7e5ec251",
+        "deleted": false,
+        "code": "4061",
+        "name": "Вино выдержанное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "d87ee082-d777-2dda-de31-05e1445612ad",
+        "deleted": false,
+        "code": "4218",
+        "name": "Вино фруктовое крепленое специальной технологии"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "633a6878-8c63-86bf-ecbe-b97073194232",
+        "deleted": false,
+        "code": "020",
+        "name": "Спирт этиловый ректификованный из пищевого сырья"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "3757d702-0301-0f2d-59ff-2b0b1124fad2",
+        "deleted": false,
+        "code": "4051",
+        "name": "Вино с защищенным наименованием места происхождения товара"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "a8b895ec-e661-c0da-2d01-cf730411fcf7",
+        "deleted": false,
+        "code": "4311",
+        "name": "Вино специальное с защищенным наименованием места происхождения товара. (для производителей респ.Крым и г.Севастополь)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "23e8f093-c671-099b-1b39-edd338ba7f41",
+        "deleted": false,
+        "code": "4111",
+        "name": "Ликерное вино. Эта групперовка не включает: вино ликерное с защищенным географическим указанием, вино ликерное с защищеным наименованием места происходения товара, вино специальное с защищенным географическим указанием и вино специальное с защищенным наименованием места происхождения товара"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "e3f3747e-be81-3460-06e6-e7f8b370e282",
+        "deleted": false,
+        "code": "4112",
+        "name": "Кагор"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "c575d2c2-2842-e4ef-1db5-8c24c0909399",
+        "deleted": false,
+        "code": "237",
+        "name": "Виски"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0665ebcd-5997-89c1-e4c2-fdd90ca553c2",
+        "deleted": false,
+        "code": "2112",
+        "name": "Пунши"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "097b330d-e5f3-779d-3717-37e787c39cac",
+        "deleted": false,
+        "code": "410",
+        "name": "Вина (за исключением натуральных, игристых и шампанских)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "e063ebe1-0cfd-66ba-249c-94693ec6487c",
+        "deleted": false,
+        "code": "2611",
+        "name": "Сидр ароматизированный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "60f5317c-12bd-65ac-547d-02dd9c4d1dff",
+        "deleted": false,
+        "code": "535",
+        "name": "Напиток алкогольный медовый столовый"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "65b438a2-3fe8-ef5f-d83e-c4bf207432d9",
+        "deleted": false,
+        "code": "090",
+        "name": "Фракция головная этилового спирта"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "81bb06f5-1a3d-6f0c-6cb6-b249800ab305",
+        "deleted": false,
+        "code": "4214",
+        "name": "Вино фруктовое газированное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "5d4c687f-d862-9ac4-6682-91b2c07eaf4b",
+        "deleted": false,
+        "code": "416",
+        "name": "Вино (столовое) коллекционное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "26fd8a31-6e40-538a-db11-21653ab14c52",
+        "deleted": false,
+        "code": "235",
+        "name": "Коньяк коллекционный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "9dbb1f5a-3999-9343-30b7-e42dbae93bdc",
+        "deleted": false,
+        "code": "2802",
+        "name": "Водка виноградная с защищенным географическим указанием"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "6f982624-c520-e66d-4169-7ac2c3b4dd79",
+        "deleted": false,
+        "code": "160",
+        "name": "Плодовый дистиллят"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "37ab6286-efeb-a607-73b1-b254c1f0ff4d",
+        "deleted": false,
+        "code": "263",
+        "name": "Медовуха (медовые напитки)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "aad687e5-6f9f-71fa-990f-1a4f39f0e87d",
+        "deleted": false,
+        "code": "520",
+        "name": "Напитки, изготавливаемые на основе пива"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "5d7bfddf-b3df-37ab-575a-d45a2c9e46d1",
+        "deleted": false,
+        "code": "330",
+        "name": "Соки спиртованные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "71cd1cc4-b94d-c119-7ae1-0a9906391a83",
+        "deleted": false,
+        "code": "1201",
+        "name": "Дистилляты кальвадосные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b5462817-5f48-72d9-68e4-bc11d6706de6",
+        "deleted": false,
+        "code": "3221",
+        "name": "Виноматериалы фруктовые столовые"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "28e18a11-4aeb-cc84-f989-c9462b72ac86",
+        "deleted": false,
+        "code": "050",
+        "name": "Спирт этиловый абсолютированный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "875ee77d-2399-cf06-0d63-51919fe7800c",
+        "deleted": false,
+        "code": "404",
+        "name": "Вино с защищенным географическим указанием"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "6ba04bee-eaf9-9758-b81e-dcd7859d9f1e",
+        "deleted": false,
+        "code": "21212",
+        "name": "Ликеры"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "924ac62c-cfda-aede-3bed-4a4e14c18fac",
+        "deleted": false,
+        "code": "280",
+        "name": "Другие спиртные напитки с содержанием этилового спирта свыше 25%"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "ab141b22-2bf3-6f09-4a86-8b3e32a97072",
+        "deleted": false,
+        "code": "2125",
+        "name": "Бальзамы"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "c3c6a9a5-9f95-28e7-c79d-1f4926debaab",
+        "deleted": false,
+        "code": "406",
+        "name": "Вино коллекционное виноградное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "4593fb6d-81f9-010c-b050-af8ba017de76",
+        "deleted": false,
+        "code": "4322",
+        "name": "Вина прочие ароматизированные, в том числе из свежего винограда"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "4e6951ad-4fcc-bc83-c529-1e8c2202dc9f",
+        "deleted": false,
+        "code": "1503",
+        "name": "Дистиллят виноградного происхождения прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "d30ce525-df8b-b856-7bb2-ee61495cb4cd",
+        "deleted": false,
+        "code": "485",
+        "name": "Денатурированная спиртосодержащая непищевая продукция"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "cc232e18-c124-862c-6197-ed2e5f99efa5",
+        "deleted": false,
+        "code": "322",
+        "name": "Виноматериалы фруктовые (плодовые)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "30e9351a-e98e-d2f4-9584-aff26dd45e9c",
+        "deleted": false,
+        "code": "2321",
+        "name": "Бренди высокого качества"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "6d2dfba6-f7fd-c3aa-cf40-57b6861b9b86",
+        "deleted": false,
+        "code": "28011",
+        "name": "Бренди фруктовый"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "22ccdf24-55ff-9fb2-0232-382c7269bc6e",
+        "deleted": false,
+        "code": "262",
+        "name": "Пуаре"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0ead18f8-f8c3-f45c-6ecc-bf7fc7d1a514",
+        "deleted": false,
+        "code": "2126",
+        "name": "Ликероводочные изделия прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0fe29f2c-4764-9db4-3dd2-e86864ce66d7",
+        "deleted": false,
+        "code": "2605",
+        "name": "Напитки слабоалкогольные прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "0f2997f6-b760-4aa1-41d7-b7481fa2199d",
+        "deleted": false,
+        "code": "2292",
+        "name": "Напиток крепкий из дистиллята винного для бренди (дистиллята коньячного) (коньяк)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "34b62fa2-3f65-aa77-cbdb-a8a0d5a44918",
+        "deleted": false,
+        "code": "28013",
+        "name": "Напиток спиртной из зернового сырья"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "5b3b78a8-ce37-90a0-a2ee-7100e4ff6dd6",
+        "deleted": false,
+        "code": "236",
+        "name": "Ромы"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "e5d08059-0ce7-e2e0-592f-b35d358525ba",
+        "deleted": false,
+        "code": "2801",
+        "name": "Водка виноградная"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "8616e68d-0bb9-2fa0-559e-3ac9670e391d",
+        "deleted": false,
+        "code": "4411",
+        "name": "Вино игристое виноградное шампанское с защищенным географическим указанием"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "dd01d83e-31d8-0bcf-63b4-2e2658433731",
+        "deleted": false,
+        "code": "4617",
+        "name": "Напитки винные фруктовые, произведенные без добавления этилового спирта"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "e3c42e20-064f-5da0-ae5a-21ba227d8859",
+        "deleted": false,
+        "code": "4062",
+        "name": "Вино коллекционное"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "ebaff546-32f2-8431-2f8b-3f1888efad84",
+        "deleted": false,
+        "code": "4151",
+        "name": "Вино столовое с защищенным наименованием места происхождения товара"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "bc9b292c-7982-7387-77d4-0a3490e26d64",
+        "deleted": false,
+        "code": "1305",
+        "name": "Дистиллят винный полного цикла производства ректификованный с объемной долей спирта более 86%"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "02cabb35-98a8-ecff-70f7-fd0f0b9f0219",
+        "deleted": false,
+        "code": "331",
+        "name": "Соки сброженно-спиртованные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "346bb83e-30b3-7acb-09c7-93d926d4c73f",
+        "deleted": false,
+        "code": "102",
+        "name": "Спиртосодержащие лекарственные препараты (средства) для медицинского применения"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "bdb24da8-904d-d078-3fe3-40dad3a1376f",
+        "deleted": false,
+        "code": "4313",
+        "name": "Вина ликерные прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b2d98988-1712-3df1-c048-c85e781cde62",
+        "deleted": false,
+        "code": "4619",
+        "name": "Напиток винный газированный жемчужный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "bf387d38-1f11-2341-28c2-50420ec2c5c9",
+        "deleted": false,
+        "code": "4621",
+        "name": "Винные напитки виноградные, произведенные с добавлением этилового спирта без насыщения двуокисью углерода"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "a3ec2f17-a2f3-7406-5634-efd5b69b00a8",
+        "deleted": false,
+        "code": "2614",
+        "name": "Напитки слабоалкогольные брожения прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "cac676dd-5782-1cd4-3551-23d2b0b5c8a4",
+        "deleted": false,
+        "code": "1501",
+        "name": "Дистиллят виноградного происхождения"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "9c9b110a-e7b5-c2b0-7924-6deceae3115f",
+        "deleted": false,
+        "code": "2604",
+        "name": "Напиток слабоалкогольный спиртованный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "469cbbc2-f08a-6181-c393-dc89d90d03a3",
+        "deleted": false,
+        "code": "180",
+        "name": "Зерновой дистиллят"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "07a9eb94-38ab-8e4e-ebfe-534e7eb7c13e",
+        "deleted": false,
+        "code": "430",
+        "name": "Вино специальное с защищенным географическим указанием"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "090bfc45-345a-226b-b4f3-b8456a411e6d",
+        "deleted": false,
+        "code": "1612",
+        "name": "Дистиллят фруктовый ректификованный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "042e9d51-4161-e544-3445-6dacdc7a3f21",
+        "deleted": false,
+        "code": "414",
+        "name": "Вино (столовое) с защищенным географическим указанием"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "60d9b323-2a71-77a8-42dd-66cbae8f6353",
+        "deleted": false,
+        "code": "2113",
+        "name": "Пунши прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "01424b71-cfc1-cf3c-977d-45f90a4df1ed",
+        "deleted": false,
+        "code": "4211",
+        "name": "Вино фруктовое ликерное. Эта группировка включает: ликерное вино с одержанием этилового спирта от 15 до 22 процентов объема готовой продукции, произведенное в результате полного или неполного брожения целых или дробленыхфруктов либо фруктового сусла с добавленем или без добавления концентрированного фруктового сусла, ректификованного концентрированного фруктового сусла, с добавлением фруктового дислиллята"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "86ef0f7f-cdb4-9fb3-c3ee-7cd21e3cf77c",
+        "deleted": false,
+        "code": "241",
+        "name": "Напитки коньячные, бренди с содержанием этилового спирта до 25% включительно"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "81c7bd76-6652-e0f0-69f1-bed294fbf427",
+        "deleted": false,
+        "code": "190",
+        "name": "Другие дистилляты"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "4196709f-0212-f50c-7b9a-cf90bc402db3",
+        "deleted": false,
+        "code": "421",
+        "name": "Фруктовое (плодовое) вино"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "af4b1955-3c81-91dd-389b-a1656dd48a87",
+        "deleted": false,
+        "code": "341",
+        "name": "Фруктовое сусло"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "f8a4cfd9-0623-4292-c58d-21403dca4d24",
+        "deleted": false,
+        "code": "3231",
+        "name": "Виноматериалы виноградные специальные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "6ceb2258-b7c1-d239-79c9-bf454a07b030",
+        "deleted": false,
+        "code": "101",
+        "name": "Фармацевтическая субстанция спирта этилового (этанол)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "e50c5fa5-5418-d062-ff5d-d8e86501fb97",
+        "deleted": false,
+        "code": "1203",
+        "name": "Дистиллят яблочный молодой для яблочного бренди"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "7885a013-ebf9-0ebc-3d3a-01bf2244aee2",
+        "deleted": false,
+        "code": "4626",
+        "name": "Напиток виноградный крепкий"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "6b5d8a89-6eec-e139-e940-9e4a89b5334c",
+        "deleted": false,
+        "code": "3211",
+        "name": "Виноматериалы виноградные столовые"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b587f1a6-1e96-f527-f560-cf21ddd311f1",
+        "deleted": false,
+        "code": "4115",
+        "name": "Вина крепленые прочие"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "1b056882-2c34-cd43-7d75-3c3a29b99bf5",
+        "deleted": false,
+        "code": "46111",
+        "name": "Напитки винные фруктовые газированные"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "89e7955a-84c0-7b53-b27c-1863cc8cfc49",
+        "deleted": false,
+        "code": "2804",
+        "name": "Водки фруктовые (плодовые)"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "48062a13-756d-c7c9-8b94-89e1db9a80a7",
+        "deleted": false,
+        "code": "21216",
+        "name": "Ликер яичный"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "1700f93b-4c04-0b8f-12ce-a5abe552e47d",
+        "deleted": false,
+        "code": "350",
+        "name": "Другая спиртосодержащая пищевая продукция"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "b610fe5c-de72-9227-caa7-e33545772b07",
+        "deleted": false,
+        "code": "234",
+        "name": "Коньяк с защищенным наименованием места происхождения"
+    },
+    {
+        "rootType": "AlcoholClass",
+        "id": "4097f207-195c-3aa7-80ca-7f7ae8e00bc7",
+        "deleted": false,
+        "code": "4851",
+        "name": "Продукция денатурированная спиртосодержащая непищевая"
+    }
+]

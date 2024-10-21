@@ -1,0 +1,29 @@
+[
+    {
+        "rootType": "OrderType",
+        "id": "76067ea3-356f-eb93-9d14-1fa00d082c4e",
+        "deleted": false,
+        "code": null,
+        "name": "Доставка курьером",
+        "orderServiceType": "DELIVERY_BY_COURIER",
+        "defaultForServiceType": true
+    },
+    {
+        "rootType": "OrderType",
+        "id": "bbbef4dc-5a02-7ea3-81d3-826f4e8bb3e0",
+        "deleted": false,
+        "code": null,
+        "name": "Обычный заказ",
+        "orderServiceType": "COMMON",
+        "defaultForServiceType": false
+    },
+    {
+        "rootType": "OrderType",
+        "id": "5b1508f9-fe5b-d6af-cb8d-043af587d5c2",
+        "deleted": false,
+        "code": null,
+        "name": "Доставка самовывоз",
+        "orderServiceType": "DELIVERY_PICKUP",
+        "defaultForServiceType": true
+    }
+]

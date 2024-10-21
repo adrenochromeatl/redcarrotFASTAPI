@@ -1,0 +1,30 @@
+[
+    {
+        "rootType": "ProductCategory",
+        "id": "a939f263-60a5-a96a-017a-ecc5e557aa65",
+        "deleted": false,
+        "code": null,
+        "name": "суши,сашими"
+    },
+    {
+        "rootType": "ProductCategory",
+        "id": "e62998e3-fd8f-d771-017f-1a7577a87915",
+        "deleted": false,
+        "code": null,
+        "name": "Фрукты"
+    },
+    {
+        "rootType": "ProductCategory",
+        "id": "78ebb2da-c4cb-850a-0180-afff78382ce1",
+        "deleted": false,
+        "code": null,
+        "name": "Кофе-точки"
+    },
+    {
+        "rootType": "ProductCategory",
+        "id": "6fc26472-e6d0-dc4a-018a-4a213196ecfd",
+        "deleted": false,
+        "code": null,
+        "name": "Розница"
+    }
+]

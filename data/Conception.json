@@ -1,0 +1,23 @@
+[
+    {
+        "rootType": "Conception",
+        "id": "2609b25f-2180-bf98-5c1c-967664eea837",
+        "deleted": false,
+        "code": "no_concept",
+        "name": "Без концепции"
+    },
+    {
+        "rootType": "Conception",
+        "id": "c40810a1-1d57-46b1-a967-13edfca15459",
+        "deleted": false,
+        "code": "001",
+        "name": "Владивосток"
+    },
+    {
+        "rootType": "Conception",
+        "id": "19aa6831-d9ec-4b31-9f1b-3c284147ee6b",
+        "deleted": false,
+        "code": "002",
+        "name": "Хабаровск"
+    }
+]

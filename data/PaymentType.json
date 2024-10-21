@@ -1,0 +1,30 @@
+[
+    {
+        "rootType": "PaymentType",
+        "id": "e46b4e6c-10d5-a739-8fb1-b6674d1e65e7",
+        "deleted": false,
+        "code": null,
+        "name": "Банковские карты"
+    },
+    {
+        "rootType": "PaymentType",
+        "id": "d6630d7c-85be-a369-0ae1-5b461833b19b",
+        "deleted": true,
+        "code": "",
+        "name": "Мобильный платеж"
+    },
+    {
+        "rootType": "PaymentType",
+        "id": "4f8081dd-1f85-68a5-6a55-8e6e67dc99d0",
+        "deleted": true,
+        "code": "",
+        "name": "Бонусы Plazius"
+    },
+    {
+        "rootType": "PaymentType",
+        "id": "09322f46-578a-d210-add7-eec222a08871",
+        "deleted": false,
+        "code": "CASH",
+        "name": "Наличные"
+    }
+]

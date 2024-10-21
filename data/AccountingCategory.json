@@ -1,0 +1,30 @@
+[
+    {
+        "rootType": "AccountingCategory",
+        "id": "8bc08505-c81d-075d-8572-af7b636d049b",
+        "deleted": false,
+        "code": "1",
+        "name": "Товар"
+    },
+    {
+        "rootType": "AccountingCategory",
+        "id": "d79142b9-e38c-4ef2-a827-a0031f547ce0",
+        "deleted": false,
+        "code": "2",
+        "name": "Услуга"
+    },
+    {
+        "rootType": "AccountingCategory",
+        "id": "870964ac-e79c-4239-8b87-ece6440da9f5",
+        "deleted": false,
+        "code": "3",
+        "name": "Готовая продукция"
+    },
+    {
+        "rootType": "AccountingCategory",
+        "id": "8ad813f2-9d94-44e6-90f4-bca0c86b78bf",
+        "deleted": false,
+        "code": "4",
+        "name": "Хоз.товары"
+    }
+]

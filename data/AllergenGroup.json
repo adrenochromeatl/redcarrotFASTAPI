@@ -1,0 +1,100 @@
+[
+    {
+        "rootType": "AllergenGroup",
+        "id": "a9794be4-88d8-9387-6696-2222ea3b2e85",
+        "deleted": false,
+        "code": "1",
+        "name": "Сельдерей"
+    },
+    {
+        "rootType": "AllergenGroup",
+        "id": "36197570-ea4f-caf8-1ec9-9bc8705abdc3",
+        "deleted": false,
+        "code": "12",
+        "name": "Семена кунжута"
+    },
+    {
+        "rootType": "AllergenGroup",
+        "id": "7cd0f109-4e19-d6b8-9303-36d5dc5f5f99",
+        "deleted": false,
+        "code": "14",
+        "name": "Диоксид серы и сульфиты"
+    },
+    {
+        "rootType": "AllergenGroup",
+        "id": "9504ca68-0a25-69bb-1782-3f46dd10456e",
+        "deleted": false,
+        "code": "2",
+        "name": "Клейковина (глютен)"
+    },
+    {
+        "rootType": "AllergenGroup",
+        "id": "d15c3f77-8dcd-3cb9-27b8-99363c7fba6a",
+        "deleted": false,
+        "code": "7",
+        "name": "Молоко"
+    },
+    {
+        "rootType": "AllergenGroup",
+        "id": "1037bb63-afe4-cdf8-f9e8-577ddcfe2777",
+        "deleted": false,
+        "code": "9",
+        "name": "Горчица"
+    },
+    {
+        "rootType": "AllergenGroup",
+        "id": "a6e62638-5428-ab8a-427d-038b55a1375d",
+        "deleted": false,
+        "code": "11",
+        "name": "Арахис"
+    },
+    {
+        "rootType": "AllergenGroup",
+        "id": "5e27fa38-1ce2-3ba3-850e-0541d3246188",
+        "deleted": false,
+        "code": "5",
+        "name": "Рыба"
+    },
+    {
+        "rootType": "AllergenGroup",
+        "id": "4d27ddaa-1c35-1a70-fd3a-63c4faaff711",
+        "deleted": false,
+        "code": "8",
+        "name": "Моллюски"
+    },
+    {
+        "rootType": "AllergenGroup",
+        "id": "6ddcf737-7ee8-4d90-cabd-87df4d3bceb8",
+        "deleted": false,
+        "code": "10",
+        "name": "Лесные орехи"
+    },
+    {
+        "rootType": "AllergenGroup",
+        "id": "9ad5d62e-2afc-b9fb-d6be-d604d797a722",
+        "deleted": false,
+        "code": "13",
+        "name": "Соевые бобы"
+    },
+    {
+        "rootType": "AllergenGroup",
+        "id": "e8cec001-131e-fe75-85eb-1e04f88a1632",
+        "deleted": false,
+        "code": "3",
+        "name": "Ракообразные"
+    },
+    {
+        "rootType": "AllergenGroup",
+        "id": "cf5295a0-b0ce-3cfc-ac32-00a27506117d",
+        "deleted": false,
+        "code": "6",
+        "name": "Люпин"
+    },
+    {
+        "rootType": "AllergenGroup",
+        "id": "327802ea-c3fb-5014-a99e-7aec62dd25cd",
+        "deleted": false,
+        "code": "4",
+        "name": "Яйца"
+    }
+]
